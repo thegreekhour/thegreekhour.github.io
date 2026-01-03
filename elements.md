@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reviews
-image: assets/images/pic01.jpg
+image: assets/images/girl.jpg
 nav-menu: true
 ---
 

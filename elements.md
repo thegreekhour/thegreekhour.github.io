@@ -22,25 +22,26 @@ Every student arrives with a different story and a different reason for learning
 Results matter—but so does how you get there. These testimonials come from students who committed to learning Greek in a way that fit their lives, their goals, and their pace. The reviews below are their words, shared honestly, reflecting both their experience with the language and the community we’ve built together over the past eight years.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Lale - Turkey</h3>
+		<p>Xristina is the teacher that makes learning fun and almost therapeutic! Really engaging, interesting, she always has a quirky little Greek fact up her sleeve to make you feel like you’ve got insider knowledge on the language! 
+		She has a really good pace and ensures that words and phrases are practiced so often that you have no chance of forgetting them. She is also incredibly flexible which means that you can hold a full time job and be a student at the same time without having to give up on the Greek dream! I can definitely see a huge improvement in my speaking, listening, reading and writing without feeling overwhelmed at any point– she is an absolute all rounder with the added bonus of having great conversation! Thanks so much Xristina :)</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Marie-Claude - Canada</h3>
+		<p>Xristina has been the best greek teacher I've had. She makes learning the language fun and engaging and she breaks it down in a way that's easy to understand for a beginner. She is very knowledgeable and her expertise really shines through in the way she teaches. She is attentive and will answer questions in between sessions. Overall, I am truly loving my experience with Xristina and would highly recommend her to anyone desiring to learn Greek!</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Katharina - Germany</h3>
+		<p>It is my pleasure to recommend Xristina to anyone who wants to learn Greek. I started about 6 months ago as an absolute beginner. Initially, my goal was to learn a few sentences for basic communication during an upcoming trip to Greece, but I enjoyed the lessons so much that I sticked to it. Xristina is patient, kind, well organized and very attentive. Her communication skills are excellent. She adapts the content of the lessons to my interests and the amount of homework to my workload. Xristina clearly loves to teach Greek and exceeded my expectations. She put together a play list with Greek music for me and since I struggle to memorise new words, she started using an app that allows me to learn vocabulary with the help of different games and rehearsal methods. She sends me recordings of the words that are difficult to pronounce and is always happy to answer questions, even between lessons. Our lessons have become a highlight during the never-ending lockdowns!.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Alesandro - Mexico</h3>
+		<p>Xristina is an excellent teacher, prepares her lessons extensively and has a great understanding of student's needs in order to pace each lesson accordingly. Would recommend her to anyone who is trying to upgrade their skills in Greek or absolute beginners who are just getting started with the language.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Andrew - New York</h3>
+		<p>There are not enough words to explain my gratitude to Xristina as my tutor. From the beginning she has been warm, accomodating, encouraging and overall very invested in my learning journey. She ensures that the lessons are not only encouraging but the right level of challenging, and she applies this to the extra work she gives. I am only at the beginning of my learning, but have already gained much confidence in my Greek language skills already; Thank you Xristina ☺️</p>
 	</div>
 </div>
 
